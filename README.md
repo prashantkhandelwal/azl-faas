@@ -20,4 +20,4 @@ http://<GATEWAY-IP>:<PORT>/azl?artist=eminem&song=not afraid
 ```
 Output:
 
-![azl-faas](https://github.com/prashantkhandelwal/azl-faas/blob/master/screenshots/azl-screenshot.png)
+![azl-faas](https://raw.githubusercontent.com/prashantkhandelwal/azl-faas/main/screenshots/alz-screesnhot.png)
